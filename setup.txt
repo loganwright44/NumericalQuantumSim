@@ -1,0 +1,6 @@
+Authors:
+Logan Wright
+Kaden Shaw
+
+Project:
+Schrodinger Equation Solver for electron-photon interactions
